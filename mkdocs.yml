@@ -1,4 +1,4 @@
-site_name: A Comprehensive Tutorial to Learn Apache Airflow
+site_name: Apache Airflow Tutorial
 site_url: https://mydomain.org/mysite
 theme:
   name: material
