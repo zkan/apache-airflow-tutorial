@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: A Comprehensive Tutorial to Learn Apache Airflow
 site_url: https://mydomain.org/mysite
 theme:
   name: material
